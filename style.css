@@ -1,0 +1,11 @@
+.ui-header {
+    background-color: #3498db !important;
+    color: white !important;
+    text-shadow: none !important;
+}
+
+#btnSubmit {
+    background-color: #2ecc71 !important;
+    color: white !important;
+    text-shadow: none !important;
+}
